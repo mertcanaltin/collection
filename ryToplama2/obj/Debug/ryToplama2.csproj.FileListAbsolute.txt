@@ -1,0 +1,10 @@
+C:\VS\REPOS\ryToplama2\ryToplama2\obj\Debug\ryToplama2.csprojAssemblyReference.cache
+C:\VS\REPOS\ryToplama2\ryToplama2\obj\Debug\ryToplama2.Properties.Resources.resources
+C:\VS\REPOS\ryToplama2\ryToplama2\obj\Debug\ryToplama2.toplamaForm.resources
+C:\VS\REPOS\ryToplama2\ryToplama2\obj\Debug\ryToplama2.csproj.GenerateResource.cache
+C:\VS\REPOS\ryToplama2\ryToplama2\obj\Debug\ryToplama2.csproj.CoreCompileInputs.cache
+C:\VS\REPOS\ryToplama2\ryToplama2\bin\Debug\ryToplama2.exe.config
+C:\VS\REPOS\ryToplama2\ryToplama2\bin\Debug\ryToplama2.exe
+C:\VS\REPOS\ryToplama2\ryToplama2\bin\Debug\ryToplama2.pdb
+C:\VS\REPOS\ryToplama2\ryToplama2\obj\Debug\ryToplama2.exe
+C:\VS\REPOS\ryToplama2\ryToplama2\obj\Debug\ryToplama2.pdb
